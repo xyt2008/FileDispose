@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_CN">
+<context>
+    <name>FileDispose</name>
+    <message>
+        <source>FileDispose</source>
+        <translation>文件处理</translation>
+    </message>
+    <message>
+        <source>Select:</source>
+        <translation>目录选择：</translation>
+    </message>
+    <message>
+        <source>Preview..</source>
+        <translation>目录..</translation>
+    </message>
+    <message>
+        <source>Del Context:</source>
+        <translation>删除内容：</translation>
+    </message>
+    <message>
+        <source>Delelte</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>文件名称</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation>文件路径</translation>
+    </message>
+    <message>
+        <source>File(&amp;F)</source>
+        <translation>文件(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Tool(&amp;T)</source>
+        <translation>工具(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Help(&amp;H)</source>
+        <translation>帮助(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Exit(&amp;Q)</source>
+        <translation>退出(&amp;Q)</translation>
+    </message>
+    <message>
+        <source>About(&amp;A)</source>
+        <translation>关于(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Select Your Dir</source>
+        <translation>选择目录</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>处理状态</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation>成功</translation>
+    </message>
+</context>
+</TS>

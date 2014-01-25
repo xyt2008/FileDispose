@@ -1,0 +1,5 @@
+Win32
+FileDispose/Debug
+FileDispose/GeneratedFiles
+*.sdf
+*.suo
